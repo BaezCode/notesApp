@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "881608157174",
+    "project_id": "notas-df337",
+    "storage_bucket": "notas-df337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881608157174:android:110601b6a15c5e6b4549d7",
+        "android_client_info": {
+          "package_name": "baez.code.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881608157174-0oadpj31l1tb9tlu2f0mgbvffjddd6dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "baez.code.notes",
+            "certificate_hash": "1042e9034b56d340ad926efdee857f982435090f"
+          }
+        },
+        {
+          "client_id": "881608157174-bflj1u460p7hri22i8r7m481vhgcfj11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "baez.code.notes",
+            "certificate_hash": "4f8acf6f0b58783d7decb708579a90dc8d852a3c"
+          }
+        },
+        {
+          "client_id": "881608157174-e7hc6kembj2tmg8fv7obp8kkucerbldk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "baez.code.notes",
+            "certificate_hash": "1c4950a345e0b2708df3777961856c1ba97c9370"
+          }
+        },
+        {
+          "client_id": "881608157174-uu0csp420ec0h9b9i3d50vvccl4jlbor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0J0PU4xk2APNmDLdCPQw_bh82f8Ifis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881608157174-uu0csp420ec0h9b9i3d50vvccl4jlbor.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "881608157174-qn0eck1laaouim4hv3sqqirthm06mth5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "baez.code.notes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
